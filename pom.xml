@@ -17,8 +17,8 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/IwantBeJavaDev/mb2g-release-plugin.git</developerConnection>
-        <url>https://github.com/IwantBeJavaDev/mb2g-release-plugin</url>
+        <developerConnection>scm:git:https://github.com/IwantBeJavaDev/maven-release-plugin.git</developerConnection>
+        <url>https://github.com/IwantBeJavaDev/maven-release-plugin</url>
       <tag>maven-release-plugin-1.0</tag>
   </scm>
 
