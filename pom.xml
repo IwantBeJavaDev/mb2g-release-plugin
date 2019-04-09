@@ -19,7 +19,7 @@
     </properties>
 
     <scm>
-        <developerConnection>https://github.com/IwantBeJavaDev/mb2g-release-plugin.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/IwantBeJavaDev/mb2g-release-plugin.git</developerConnection>
         <url>https://github.com/IwantBeJavaDev/mb2g-release-plugin</url>
     </scm>
 
